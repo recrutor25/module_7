@@ -1,4 +1,4 @@
-#!/home/igor/PycharmProjects/module_6/.venv/bin/python
+#!/home/igor/PycharmProjects/module_7/.venv/bin/python
 # -*- coding: utf-8 -*-
 
 class Product:
