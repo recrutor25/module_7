@@ -11,8 +11,9 @@ def custom_write(file_name, strings):
         key = (n, file.tell())
         file.write(f'{string}\n')
         strings_positions[key] = string
-    return strings_positions
     file.close()
+    return strings_positions
+
 
 info = [
     'Text for tell.',
